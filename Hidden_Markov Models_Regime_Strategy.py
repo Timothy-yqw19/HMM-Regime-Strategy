@@ -2,7 +2,7 @@
 """
 Project: Hidden Markov Models Detection Regime Strategy
 
-Author: Yuqin Wang
+Author: Timothy YQ Wang
 """
 import yfinance as yf
 import pandas as pd
